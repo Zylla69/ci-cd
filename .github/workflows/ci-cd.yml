@@ -23,7 +23,7 @@ jobs:
                 dotnet-version: ${{ env.DOTNET_VERSION }}
 
             - name: Restore dependecies 📦  
-              run: dotnet restore ci-cd.csproj
+              run: dotnet restore ci-cd.sln
 
             - name: Build App 🚢
               run: dotnet build -c Release --no-restore ci-cd.sln
