@@ -40,4 +40,4 @@ jobs:
               uses: azure/webapps-deploy/v2
               with:
                   app-name: WeatherForMe2 
-                  publis-profile: ${{ secrets.FASIS_POPOFOTOS }}
+                  publis-profile: ${{ secrets.FABISPOPOFOTOS }}
