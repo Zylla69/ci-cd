@@ -23,14 +23,14 @@ jobs:
                 dotnet-version: ${{ env.DOTNET_VERSION }}
 
             - name: Restore dependecies 📦  
-              run: dotnet restore ci-cd.sln
+              run: dotnet restore ci-cd/ci-cd.sln
 
             - name: Build App 🚢
-              run: dotnet build -c Release --no-restore ci-cd.sln
+              run: dotnet build -c Release --no-restore ci-cd/ci-cd.sln
 
         #Tests
             - name: Automated Tets
-              run: dotnet test ci-cd
+              run: dotnet test ci-cd/ci-cd.sln
 
         # Publish
             - name: Publish App
