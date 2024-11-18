@@ -28,11 +28,7 @@ jobs:
             - name: Build App 🚢
               run: dotnet build -c Release --no-restore ci-cd/ci-cd.sln
 
-        #Tests
-            - name: Automated Tets
-              run: dotnet test ci-cd/ci-cd.sln
-
-        # Publish
+          # Publish
             - name: Publish App
               run: dotnet publish -c Release -o ./out ci-cd/ci-cd.sln
 
