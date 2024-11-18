@@ -1,0 +1,64 @@
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\appsettings.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.exe
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.deps.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.runtimeconfig.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.pdb
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.csproj.AssemblyReference.cache
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.AssemblyInfoInputs.cache
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.AssemblyInfo.cs
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.csproj.CoreCompileInputs.cache
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.ci-cd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.build.ci-cd.props
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ci-cd.props
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ci-cd.props
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\scopedcss\bundle\ci-cd.styles.css
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.csproj.Up2Date
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\refint\ci-cd.dll
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.pdb
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.genruntimeconfig.cache
+C:\Users\Zilla\Documents\5. Klasse\POS\ci-cd\ci-cd\obj\Debug\net8.0\ref\ci-cd.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\appsettings.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.exe
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.deps.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.runtimeconfig.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\ci-cd.pdb
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.csproj.AssemblyReference.cache
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.AssemblyInfoInputs.cache
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.AssemblyInfo.cs
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.csproj.CoreCompileInputs.cache
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.ci-cd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.build.ci-cd.props
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ci-cd.props
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ci-cd.props
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\scopedcss\bundle\ci-cd.styles.css
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.csproj.Up2Date
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\refint\ci-cd.dll
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.pdb
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ci-cd.genruntimeconfig.cache
+C:\Users\Zilla\Documents\GitHub\ci-cd\ci-cd\ci-cd\ci-cd\obj\Debug\net8.0\ref\ci-cd.dll

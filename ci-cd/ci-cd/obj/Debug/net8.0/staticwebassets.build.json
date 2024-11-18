@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TK7dCSqrbAA2cM2FfFz7HP5zZ2P3TzhYYYnSIWVeYyA=",
+  "Source": "ci-cd",
+  "BasePath": "_content/ci-cd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
