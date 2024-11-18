@@ -23,7 +23,7 @@ jobs:
           dotnet-version: ${{ env.DOTNET_VERSION }}
 
       - name: Restore dependencies
-        run: dotnet restore 20241118_Ci-Cd
+        run: dotnet restore ci-cd
 
       - name: Build App
-        run: dotnet build -c Release --no-restore 20241118_Ci-Cd/20241118_Ci-Cd.sln
+        run: dotnet build -c Release --no-restore ci-cd/ci-cd.sln
