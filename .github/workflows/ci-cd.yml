@@ -1,37 +1,37 @@
 name: Continuous Integration and Deployment
 
-on: 
-  push:
-    branches:
-      -main
+on:
+    push:
+        branches:
+            - main
 
 env:
-  DOTNET_VERSION: '8.0.x'
+    DOTNET_VERSION: '8.0.x'
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    environment: Azure
+    build:
+        runs-on: ubuntu-latest
+        environment: Azure
 
-    steps: 
-      - name: Checkout code 
-        uses: actions/checkout@v4
+        steps:
+            - name: Checkout code 💫
+              uses: actions/checkout@v4
 
-      - name: Setup dotnet 8
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: ${{ env.DOTNET_VERSION }}
+            - name: Setup dotnet 8
+              uses: actions/setup-dotnet@v4
+              with:
+                dotnet-version: ${{ env.DOTNET_VERSION }}
 
-      - name: Restore dependencies
-        run: dotnet restore ci-cd
+            - name: Restore dependecies 📦  
+              run: dotnet restore ci-cd.csproj
 
-      - name: Build App
-        run: dotnet build -c Release --no-restore ci-cd/ci-cd.sln
+            - name: Build App 🚢
+              run: dotnet build -c Release --no-restore ci-cd.sln
 
         #Tests
-      - name: Automated Tets
-        run: dotnet test ci-cd
+            - name: Automated Tets
+              run: dotnet test ci-cd
 
-      # Publish
-      - name: Publish App
-        run: dotnet publish -c Release -o ./out ci-cd/ci-cd.sln
+        # Publish
+            - name: Publish App
+              run: dotnet publish -c Release -o ./out ci-cd/ci-cd.sln
